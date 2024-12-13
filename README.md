@@ -33,10 +33,10 @@ To run this game locally, follow these steps:
 2. Open the project folder in your preferred code editor.
    Open the index.html file in a browser to start playing the game.
 
-3. How to Play
+3. How to Play:
    Click or press any key to make the bird fly upwards.
    Avoid hitting the pipes.
    Try to get the highest score possible by passing through gaps in the pipes.
 
-4. Contributing
+4. Contributing: 
    Feel free to fork this project, submit issues, or create pull requests. Contributions are always welcome!
