@@ -14,7 +14,13 @@ Flappy Quest is an engaging web-based game inspired by the classic Flappy Bird, 
 
 - **HTML**: Used to create the game structure and layout.
 - **CSS**: Used for styling the game and ensuring it is visually appealing.
-- **JavaScript**: The core logic of the game, including bird movement, collision detection, and scoring.
+- **JavaScript**: The core logic of the game, including bird movement, collision detection and scoring.
+
+## Live Demo
+
+You can play the game online by visiting the live demo here:
+
+[Play Flappy Quest](https://flappy-quest.vercel.app/)
 
 ## Installation
 
